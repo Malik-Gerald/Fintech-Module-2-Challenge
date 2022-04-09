@@ -1,0 +1,25 @@
+ser@MalikGC MINGW64 ~/OneDrive/Desktop/fintech_workspace/module_2/module_challenge/Fintech-Module-2-Challenge (main)
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+(base)
+User@MalikGC MINGW64 ~/OneDrive/Desktop/fintech_workspace/module_2/module_challenge/Fintech-Module-2-Challenge (main)
+$ history
+    1  git config --global user.name "Malik-Gerald"
+    2  git config --global user.name
+    3  git add .
+    4  git status
+    5  git commit
+    6  git push
+    7  git status
+    8  git commit
+    9  git commit -m "update the module 2 challenge"
+   10  pit push
+   11  git push
+   12  git push
+   13  git status
+   14  history
+(base)
+User@MalikGC MINGW64 ~/OneDrive/Desktop/fintech_workspace/module_2/module_challenge/Fintech-Module-2-Challenge (main)
